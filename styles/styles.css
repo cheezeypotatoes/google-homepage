@@ -1,0 +1,58 @@
+img {
+    display: block;
+    margin: auto;
+}
+
+input {
+  display: block;
+  margin: auto;
+  width: 400px;
+
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  font-size: 13px;
+}
+
+li {
+  display: inline;
+  padding: 10px;
+}
+
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+
+
+  background-color: #f3f2eb;
+
+}
+
+.top-right {
+  float: right;
+}
+
+.top-left {
+  padding-top: 3px;
+}
+
+.submit {
+  text-align: center;
+  padding-right: 35px;
+}
+
+.bottom-right ul {
+  float: right;
+  padding-bottom: 5px;
+
+
+}
+
+.bottom-left {
+  padding-top: 5px;
+
+}
